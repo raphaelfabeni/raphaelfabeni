@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Fabeni here!
 
-<!--
-**raphaelfabeni/raphaelfabeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is Raphael Fabeni, and I'm a 🇧🇷 developer who tries to have healthy lifestyle. 
 
-Here are some ideas to get you started:
+Currently, I'm working full time at [Red Ventures](https://www.redventures.com/) and living in  🇺🇸 Charlotte, North Carolina. I believe that more than writing code, planning solutions to help people is what makes our work so nice. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to ask me anything; the best and easier way is to send me a [Twitter DM](https://twitter.com/raphaelfabeni). I also try to write about some random stuff on my [blog](https://raphaelfabeni.com/blog/).
+
+⚡ Fun facts: 
+
+* more than 10 tattoos
+* mohawk
+* big fan of Andrea Bocelli and Luciano Pavarotti 
+* training for triathlon
