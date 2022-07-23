@@ -1,8 +1,8 @@
 ### Hi there 👋, Fabeni here!
 
-Hi! My name is Raphael Fabeni, and I'm a 🇧🇷 developer who tries to have healthy lifestyle. 
+Hi! My name is Raphael Fabeni, and I'm a 🇧🇷 developer and triathlete.
 
-Currently, I'm working full time at [Red Ventures](https://www.redventures.com/) and living in  🇺🇸 Charlotte, North Carolina. I believe that more than writing code, planning solutions to help people is what makes our work so nice. 
+Currently, I'm working full time at [Red Ventures](https://www.redventures.com/) and living in  🇺🇸 Charlotte, North Carolina. 
 
 Feel free to ask me anything; the best and easier way is to send me a [Twitter DM](https://twitter.com/raphaelfabeni). I also try to write about some random stuff on my [blog](https://raphaelfabeni.com/blog/).
 
